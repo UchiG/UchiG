@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UchiG
-- 👀 I’m interested in software engineering particulary in math-heavy fields as well as UI design
+- 👀 I’m interested in software engineering particularly in math-heavy fields as well as UI design
 - 🌱 I’m currently focusing on growing my knowledge of Javascript frameworks, which is quite a lot of fun really.
-- 💞️ I’m looking to collaborate on any web apps and software development projects involving Javascript, php, mySQL, and Python
+- 💞️ I’m looking to collaborate on any web apps and software development projects involving Javascript, php, mySQL, Java, Python
 - 📫 You can reach me on my phone number +27642127557 and my email address uchirai.govere@gmail.com
 
 <!---
